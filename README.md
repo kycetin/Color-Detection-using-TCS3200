@@ -3,6 +3,4 @@
 
 Cetin KAYA
 
-cetinkaya.co
-
 This project developt using MSP430.
